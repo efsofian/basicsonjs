@@ -1,4 +1,4 @@
-# JSDataStructure-from-scratch
+# libftJavaScript
 
 ####   Queue :> FIFO ( FIRST IN FIRST OUT )
 ![fifo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fifo_queue.png/350px-Fifo_queue.png)
